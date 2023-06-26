@@ -31,7 +31,7 @@ al hacer:
 $ ./bin/cliente-proyecto3
 ```
 
-Archivos:
+Archivos editados por el estudiante:
 
 * `Arreglos.java`,
 * `BaseDeDatos.java`,
